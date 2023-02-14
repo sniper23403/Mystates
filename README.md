@@ -8,9 +8,6 @@
   <img align="center" alt="sniper23403" src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
   <img align="center" alt="sniper23403" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
   </div>
-  
-  ##
-
    
    ##
    
