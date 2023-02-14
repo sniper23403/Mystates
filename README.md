@@ -11,10 +11,6 @@
   
   ##
 
-<div>
- <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRwQZldnTZRKgBFWpXQxgqdjWJSgmbkMswVCVFrKsTQsVVFnQnJfzbPlSWHqHVKtGKFdPfsr"      target="_blank">
- <img src="https://img.icons8.com/color/48/null/gmail--v1.png"/>
-</div>
    
    ##
    
